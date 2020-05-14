@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\Polyform\Polyform\bin\Debug\Polyform.exe.config
+C:\Users\Asus\source\repos\Polyform\Polyform\bin\Debug\Polyform.exe
+C:\Users\Asus\source\repos\Polyform\Polyform\bin\Debug\Polyform.pdb
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.Form1.resources
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.Properties.Resources.resources
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.exe
+C:\Users\Asus\source\repos\Polyform\Polyform\obj\Debug\Polyform.pdb
