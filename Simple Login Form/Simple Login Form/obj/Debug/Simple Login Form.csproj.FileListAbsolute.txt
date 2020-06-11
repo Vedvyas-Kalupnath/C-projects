@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\bin\Debug\Simple Login Form.exe.config
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\bin\Debug\Simple Login Form.exe
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\bin\Debug\Simple Login Form.pdb
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple Login Form.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple_Login_Form.Form1.resources
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple_Login_Form.Form2.resources
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple_Login_Form.Properties.Resources.resources
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple Login Form.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple Login Form.exe
+C:\Users\Asus\source\repos\Simple Login Form\Simple Login Form\obj\Debug\Simple Login Form.pdb
