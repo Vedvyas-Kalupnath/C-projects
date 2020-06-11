@@ -6,7 +6,7 @@ namespace NumbersRandom
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("*******Lets play*******");
 
             Boolean loopControl = true;
